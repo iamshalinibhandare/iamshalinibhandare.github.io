@@ -351,7 +351,7 @@ a.hoverline:hover
   margin-top: -32px; 
 }
 
-.active:after {
+.accordion.active:after {
   content: "\2212";
 }
 
