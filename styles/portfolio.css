@@ -1,11 +1,3 @@
-/*
-*
-* ==========================================
-* CUSTOM UTIL CLASSES
-* ==========================================
-*
-*/
-
 .vertical-nav {
   min-width: 17rem;
   width: 17rem;
@@ -81,13 +73,6 @@
 
 }
 
-/*
-  *
-  * ==========================================
-  * FOR DEMO PURPOSE
-  * ==========================================
-  *
-  */
 
 body {
   background: url(../images/bg.png) repeat;
@@ -123,8 +108,7 @@ body {
 }
 
 .overlay {
-  background-color: rgba(0, 0, 0, 0.4); 
-  /* background: url(images/andrew-borstein-2a.jpg); */
+  background-color: rgba(0, 0, 0, 0.4);
   height: 100%;
   left:0;
   top:0;
@@ -175,10 +159,7 @@ h3 {
 
 }
 
-/* h3 {
-    padding: 20px 30px;
-  margin-bottom: 40px;
-} */
+
 .container {
   margin: 0 auto;
 }
